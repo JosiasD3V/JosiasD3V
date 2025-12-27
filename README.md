@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Josias. I'm a Junior IT Technician from Rio de Janeiro, Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Josias. I'm a Junior IT Technician from Rio de Janeiro, Brazil. Let’s connect and grow together 🚀
+Follow me on GitHub! 💻</h2>
 
 ###
 
